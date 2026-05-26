@@ -1,0 +1,47 @@
+body{
+      font-family: Arial, sans-serif;
+      background-color: #E1D0F1;
+    }
+    table{
+      width: 900px;
+      margin: 30px auto;
+      border-collapse: collapse;
+      text-align: center;
+      background-color: white;
+      margin-bottom: 8x;
+    }
+
+    th, td{
+      border: 2px solid black;
+      padding: 10px;
+    }
+
+    .titulo{
+      background-color: #CDB0E8;
+      color: #5D298E;
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    .semestre{
+      background-color: white;
+      color: #5D298E;
+      font-size: 22px;
+      font-weight: bold;
+    }
+
+    .dias{
+      background-color:#CDB0E8;
+      color: #5D298E;
+      font-weight: bold;
+    }
+
+    .horario{
+      width: 120px;
+      font-weight: bold;
+    }
+
+    .materia{
+      height: 120px;
+      vertical-align: middle;
+    }
